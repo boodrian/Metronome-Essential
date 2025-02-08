@@ -13,6 +13,6 @@ Un'applicazione metronomo con interfaccia grafica realizzata in Python e PyQt6.
 - Installare le dipendenze con `pip install -r requirements.txt`.
 
 ## Esecuzione
-Esegui il file `main.py`:
+Esegui il file `metronome.py`:
 ```bash
-python main.py
+python metronome.py
